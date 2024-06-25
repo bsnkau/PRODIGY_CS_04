@@ -1,0 +1,1 @@
+ The task required me to design and create a keylogger program that captures any key that is pressed on a keyboard. It will write the keys pressed to an output text file on a desktop. Since i am familiar with python, i used it to create the script and the script captures any pressed key and writes them to a text file on a desktop.
